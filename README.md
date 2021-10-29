@@ -11,6 +11,9 @@ We are Game Developers and Youtube content creators, therefore we would like to 
 ### We are using this NFT storefront for:
 - Unlockable Game Dev Packages 
 - Code snippets that our community can use
+- Exclusive Discord Invites
+- Limited Edition Vikings Tech Founders' letters
+- Never seen before early product pitch videos
  
 ### We plan to add:
 - Speical tutorials
